@@ -37,4 +37,12 @@ table th:nth-child(2) {
   border-radius: 10px;
 }
 
+body {
+  background-color: #f3e5d8; 
+  font-family: 'Outfit', sans-serif;
+  color: #333;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
 
